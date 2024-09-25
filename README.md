@@ -7,3 +7,6 @@ In today's digital world, securing sensitive information is more critical than e
 The project serves as an educational resource, providing insights into password vulnerabilities and how attackers exploit them. By utilizing efficient cracking techniques like dictionary attacks, rainbow tables, and other innovative approaches, this toolkit enables users to understand the importance of strong password practices.
 
 This repository is part of a cybersecurity project aimed at demonstrating real-world password cracking scenarios, emphasizing the need for improved password security in modern systems.
+
+
+![image](https://github.com/user-attachments/assets/9a58157c-773f-427a-ada4-56eab3ba1c7d)

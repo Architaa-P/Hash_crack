@@ -2,7 +2,13 @@
 ![Screenshot 2024-09-25 183820](https://github.com/user-attachments/assets/79e430a3-9305-4780-b843-1755d2e70e20)
 
 <h2>Features</h2> <br>
-Detecting hash type
+Detecting hash type<br>
+Finding password using dictionary attack <br>
+If not found then movbing to rainbow hash tabel <br>
+If still not found then making temporary folder of hash value and then cracking hash using John the Ripper<br>
+Finally if password not found then moving to brute-force attack which is time consuming.<br>
+
+<h2>Project Motto</h2>
 
 In today's digital world, securing sensitive information is more critical than ever. Passwords remain the most common form of authentication, yet they are often vulnerable to attacks due to weak or reused combinations. Crack THE Hash is a specialized password-cracking tool designed to demonstrate various techniques used to break password hashes and recover plaintext passwords.
 
